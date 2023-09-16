@@ -14,8 +14,8 @@ Installation
 
 1. Clone the repository:
    ```
-       git clone https://github.com/your-username/svelte-guest-registration.git
-       cd svelte-guest-registration
+       git clone https://github.com/epiece/greatdayhrdeveloper.git
+       cd greatdayhrdeveloper
    ```
 3. Install dependencies:
    ```
